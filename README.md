@@ -1,4 +1,6 @@
-# Anchor CMS
+# ⚓︎ Anchor CMS
+
+Modular multi purpose CMS
 
 ## Anchor
 
